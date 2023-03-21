@@ -15,7 +15,7 @@ export default {
   data() {
     return {
       title: "Photo List",
-      htmlTag: "존나어렵다!!!!!!!",
+      htmlTag: "존나어렵다!!!!!!!주르륵",
       data: [
         { id: "이미지1", url: "../img1.jpg" },
         { id: "이미지2", url: "../img2.jpg" },
